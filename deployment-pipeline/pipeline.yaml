@@ -31,7 +31,7 @@ Parameters:
   # *** The owner of the Github repo for this application. Or delete this if you're not using Github
   GitHubOwner:
     Type: String
-    Default: symphoniacloud
+    Default: ralfhuesing29
     AllowedPattern: "[A-Za-z0-9-]+"
 
   # *** The Github repo for this application. Or delete this if you're not using Github
